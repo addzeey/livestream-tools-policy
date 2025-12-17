@@ -1,0 +1,10 @@
+# Minimal Jekyll config for GitHub Pages (custom domain supported via CNAME file)
+title: Crumpet Clips Policies
+description: Terms of Service and Privacy Policy for Crumpet Clips
+markdown: kramdown
+
+# GitHub Pages runs in safe mode; keep this minimal.
+plugins: []
+
+# Use whatever theme you prefer (optional). If you don't want any theme, remove this line.
+theme: minima
