@@ -4,7 +4,7 @@ title: Policies
 permalink: /
 ---
 
-# Policies
+# Livestream Tools Policies
 
 This site hosts policy documents for my projects.
 
